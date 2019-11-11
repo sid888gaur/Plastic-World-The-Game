@@ -1,8 +1,12 @@
 # Plastic-World
 Game Design Engineering Project
+
 Team ID - 2
+
 Siddharth Gaur 20171198
+
 Ayush Singhania 20171031
+
 Salil Aggarwal 20171166
 
 This repository contains all the scripts and almost all the assets. 
